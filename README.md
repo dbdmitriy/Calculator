@@ -1,1 +1,1 @@
-His is a simple Calculator
+This is a simple Calculator
